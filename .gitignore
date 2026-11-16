@@ -18,6 +18,13 @@ gold/
 *.parquet
 *.crc
 .venv/
+.airflow/
+airflow_1/
+__pycache__/
+*.py[cod]
 
 # PyCharm
 .idea/
+
+# VS Code
+.vscode/
